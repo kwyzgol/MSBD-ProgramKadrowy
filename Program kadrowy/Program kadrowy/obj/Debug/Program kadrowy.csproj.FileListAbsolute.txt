@@ -1,0 +1,31 @@
+C:\Users\kamil\Desktop\MSBD\Project\Program kadrowy\Program kadrowy\obj\Debug\Program kadrowy.csprojAssemblyReference.cache
+C:\Users\kamil\Desktop\MSBD\Project\Program kadrowy\Program kadrowy\obj\Debug\Program_kadrowy.Properties.Resources.resources
+C:\Users\kamil\Desktop\MSBD\Project\Program kadrowy\Program kadrowy\obj\Debug\Program kadrowy.csproj.GenerateResource.cache
+C:\Users\kamil\Desktop\MSBD\Project\Program kadrowy\Program kadrowy\obj\Debug\Program kadrowy.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\MSBD\Project\Program kadrowy\Program kadrowy\bin\Debug\Program kadrowy.exe.config
+C:\Users\kamil\Desktop\MSBD\Project\Program kadrowy\Program kadrowy\bin\Debug\Program kadrowy.exe
+C:\Users\kamil\Desktop\MSBD\Project\Program kadrowy\Program kadrowy\bin\Debug\Program kadrowy.pdb
+C:\Users\kamil\Desktop\MSBD\Project\Program kadrowy\Program kadrowy\obj\Debug\Program kadrowy.exe
+C:\Users\kamil\Desktop\MSBD\Project\Program kadrowy\Program kadrowy\obj\Debug\Program kadrowy.pdb
+C:\Users\kamil\Desktop\MSBD\Project\Program kadrowy\Program kadrowy\obj\Debug\Program_kadrowy.EmpList.resources
+C:\Users\kamil\Desktop\MSBD\Project\Program kadrowy\Program kadrowy\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\kamil\Desktop\MSBD\Project\Program kadrowy\Program kadrowy\obj\Debug\Program kadrowy.csproj.CopyComplete
+C:\Users\kamil\Desktop\MSBD\Project\Program kadrowy\Program kadrowy\obj\Debug\Program_kadrowy.EmpProfile.resources
+C:\Users\kamil\Desktop\MSBD\Project\Program kadrowy\Program kadrowy\obj\Debug\Program_kadrowy.EmpAdd.resources
+C:\Users\kamil\Desktop\MSBD\Project\Program kadrowy\Program kadrowy\obj\Debug\Program_kadrowy.EmpEdit.resources
+C:\Users\kamil\Desktop\MSBD\Project\Program kadrowy\Program kadrowy\obj\Debug\Program_kadrowy.Info.resources
+D:\Repozytoria\MSBD-ProgramKadrowy\Program kadrowy\Program kadrowy\bin\Debug\Program kadrowy.exe.config
+D:\Repozytoria\MSBD-ProgramKadrowy\Program kadrowy\Program kadrowy\bin\Debug\Program kadrowy.exe
+D:\Repozytoria\MSBD-ProgramKadrowy\Program kadrowy\Program kadrowy\bin\Debug\Program kadrowy.pdb
+D:\Repozytoria\MSBD-ProgramKadrowy\Program kadrowy\Program kadrowy\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Repozytoria\MSBD-ProgramKadrowy\Program kadrowy\Program kadrowy\obj\Debug\Program_kadrowy.EmpEdit.resources
+D:\Repozytoria\MSBD-ProgramKadrowy\Program kadrowy\Program kadrowy\obj\Debug\Program_kadrowy.EmpAdd.resources
+D:\Repozytoria\MSBD-ProgramKadrowy\Program kadrowy\Program kadrowy\obj\Debug\Program_kadrowy.EmpList.resources
+D:\Repozytoria\MSBD-ProgramKadrowy\Program kadrowy\Program kadrowy\obj\Debug\Program_kadrowy.EmpProfile.resources
+D:\Repozytoria\MSBD-ProgramKadrowy\Program kadrowy\Program kadrowy\obj\Debug\Program_kadrowy.Info.resources
+D:\Repozytoria\MSBD-ProgramKadrowy\Program kadrowy\Program kadrowy\obj\Debug\Program_kadrowy.Properties.Resources.resources
+D:\Repozytoria\MSBD-ProgramKadrowy\Program kadrowy\Program kadrowy\obj\Debug\Program kadrowy.csproj.GenerateResource.cache
+D:\Repozytoria\MSBD-ProgramKadrowy\Program kadrowy\Program kadrowy\obj\Debug\Program kadrowy.csproj.CoreCompileInputs.cache
+D:\Repozytoria\MSBD-ProgramKadrowy\Program kadrowy\Program kadrowy\obj\Debug\Program kadrowy.csproj.CopyComplete
+D:\Repozytoria\MSBD-ProgramKadrowy\Program kadrowy\Program kadrowy\obj\Debug\Program kadrowy.exe
+D:\Repozytoria\MSBD-ProgramKadrowy\Program kadrowy\Program kadrowy\obj\Debug\Program kadrowy.pdb
